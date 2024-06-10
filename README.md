@@ -21,12 +21,16 @@ This Python script converts basic-level image files containing mathematical form
 ```python
 python main.py
 
+
+
 ## Input
 
-![12](https://github.com/ven187/Python-Image-to-Latex/assets/172064899/792e267d-59cb-4239-8396-4bac1be8c3a3)
-
+![Input Image](https://github.com/ven187/Python-Image-to-Latex/blob/main/assets/172064899/792e267d-59cb-4239-8396-4bac1be8c3a3.png)
 
 ## Output
 
-![XggHHM](https://github.com/ven187/Python-Image-to-Latex/assets/172064899/08780521-c482-4ff9-82e0-b870753f377e)
+![Generated LaTeX Formula](https://github.com/ven187/Python-Image-to-Latex/blob/main/assets/172064899/08780521-c482-4ff9-82e0-b870753f377e.png)
+
+
+
 
