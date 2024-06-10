@@ -19,6 +19,10 @@ This Python script converts basic-level image files containing mathematical form
 
 ## Example
 
+```python
+python main.py
+```
+
 ### Input
 
 ![Input Image](https://github.com/ven187/Python-Image-to-Latex/raw/main/12.png)
