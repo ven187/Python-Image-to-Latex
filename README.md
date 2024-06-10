@@ -18,19 +18,11 @@ This Python script converts basic-level image files containing mathematical form
 5. Detected text will be converted into a LaTeX formula and saved as an image in the 'output' folder.
 
 ## Example
-```python
-python main.py
 
+### Input
 
+![Input Image](https://github.com/ven187/Python-Image-to-Latex/raw/main/12.png)
 
-## Input
+### Output
 
-![Input Image](https://github.com/ven187/Python-Image-to-Latex/blob/main/assets/172064899/792e267d-59cb-4239-8396-4bac1be8c3a3.png)
-
-## Output
-
-![Generated LaTeX Formula](https://github.com/ven187/Python-Image-to-Latex/blob/main/assets/172064899/08780521-c482-4ff9-82e0-b870753f377e.png)
-
-
-
-
+![Generated LaTeX Formula](https://github.com/ven187/Python-Image-to-Latex/raw/main/output/XggHHM.png)
